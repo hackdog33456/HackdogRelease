@@ -15,6 +15,7 @@ Public binary release repository for Hackdog applications. Application source co
 PhotoStudio now contains the original PhootoEditor source and Git history. Version 0.36.0 packages the latest ICC engine, document rendering and image/photo/AI working-pixel integration. Public ICC editing and several ICC interchange operations remain restricted.
 
 - [Release notes](photostudio/0.36.0.md)
+- [Download 0.36.0 installer and update assets](https://github.com/hackdog33456/HackdogRelease/releases/tag/phootoeditor-v0.36.0) (published 2026-09-29)
 - Windows x64 installer: `PhootoEditor-0.36.0-win-x64.exe`
 - Update assets: installer `.blockmap`, `latest.yml`, and `SHA256SUMS.txt`
 - Native document format: v19; catalog: v6. Preserve original documents before upgrading; older versions cannot read the new format.
